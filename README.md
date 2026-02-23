@@ -28,6 +28,4 @@ Soy estudiante de último año en Ingeniería en Sistemas Computacionales. Me ap
 * 🎮 Cuando no estoy programando, me encontrarás jugando The Last of Us, Valorant o Minecraft.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asafquesoy&show_icons=true&theme=tokyonight" alt="Mis estadísticas de GitHub" />
-</div>
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Asafquesoy&show_icons=true&theme=tokyonight)
