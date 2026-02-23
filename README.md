@@ -1,6 +1,6 @@
 # ¡Hola! Soy Asaf 👋
 
-Soy estudiante de último año en Ingeniería en Sistemas Computacionales. Me apasiona el desarrollo de software, desde la arquitectura de hardware y el backend, hasta la creación de interfaces móviles limpias. Disfruto mucho armar infraestructura propia y optimizar sistemas.
+Soy estudiante de Ingeniería en Sistemas Computacionales. Me apasiona el desarrollo de software, desde la arquitectura de hardware y el backend, hasta la creación de interfaces móviles limpias. Disfruto mucho armar infraestructura propia y optimizar sistemas.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -23,9 +23,8 @@ Soy estudiante de último año en Ingeniería en Sistemas Computacionales. Me ap
 
 ### ⚡ Un poco más sobre mí
 
-* 📡 Exploro constantemente las mejores prácticas para el diseño de APIs, integraciones IoT (ESP32) y self-hosting.
-* 🎛️ Entusiasta de exprimir al máximo el rendimiento del hardware, la administración de servidores en casa y el audio de alta fidelidad.
-* 🎮 Cuando no estoy programando, me encontrarás jugando The Last of Us, Valorant o Minecraft.
+* 📡 Exploro constantemente las mejores prácticas para el diseño de APIs.
+* 🎛️ Entusiasta de exprimir al máximo el rendimiento del hardware, la administración de servidores en casa y el audio de alta calidad.
+* 🎮 Cuando no estoy programando, me encontrarás jugando The Last of Us, Valorant o league of legends.
 
 ---
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Asafquesoy&show_icons=true&theme=tokyonight)
